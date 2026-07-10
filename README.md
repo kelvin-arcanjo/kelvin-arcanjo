@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Software & Automação Industrial e Instrumentação ⚡. Focado em criar interfaces dinâmicas, arquiteturas front-end eficientes e soluções web conectadas ao mundo real.
 
-### 🛠️ Tecnologias que domino e estou a estudar:
+### 🛠️ Tecnologias que domino e continuo a aperfeiçoar:
 
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -13,7 +13,7 @@ Estudante de Desenvolvimento de Software & Automação Industrial e Instrumenta�
 ### 🌐 Conecta-te comigo:
 
 <div style="display: inline-block;">
-  <a href="TEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/kelvinarcanjo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
