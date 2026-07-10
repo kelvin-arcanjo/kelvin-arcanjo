@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Software & Automação Industrial e Instrumentação ⚡. Focado em criar interfaces dinâmicas, arquiteturas front-end eficientes e soluções web conectadas ao mundo real.
 
-### 🛠️ Tecnologias que domíno e estou continuamente a aperfeiçoar:
+### 🛠️ Tecnologias que domino e estou continuamente a aperfeiçoar:
 
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
