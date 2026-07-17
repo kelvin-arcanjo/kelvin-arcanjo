@@ -1,8 +1,8 @@
-## Kelvin Arcanjo  | Software Developer
+## Kelvin Arcanjo  | Desenvolvedor de Software
 
 Estudante de Desenvolvimento de Software & Automação Industrial e Instrumentação ⚡. Focado em criar interfaces dinâmicas, arquiteturas front-end eficientes e soluções web conectadas ao mundo real.
 
-### 🛠️ Tecnologias dominadas e continuamente a aperfeiçoando:
+### 🛠️ Tecnologias dominadas e continuamente aperfeiçoando:
 
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
