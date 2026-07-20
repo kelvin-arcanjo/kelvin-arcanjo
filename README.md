@@ -1,6 +1,6 @@
 ## Kelvin Arcanjo  | Desenvolvedor de Software
 
-Estudante de Desenvolvimento de Software & Automação Industrial e Instrumentação ⚡. Focado em criar interfaces dinâmicas, arquiteturas front-end eficientes e soluções web conectadas ao mundo real.
+Estudante de Desenvolvimento de Software e Automação Industrial & Instrumentação ⚡. Focado em criar interfaces dinâmicas, arquiteturas front-end eficientes e soluções web conectadas ao mundo real.
 
 ### 🛠️ Tecnologias dominadas e continuamente aperfeiçoando:
 
