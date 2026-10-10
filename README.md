@@ -1,4 +1,4 @@
-### Hi there, I'm Kelvin Arcanjo 👋 | Fullstack Software Developer & Industrial Automation and Instrumentation Technician
+###  Kelvin Arcanjo | Fullstack Software Developer & Industrial Automation and Instrumentation Technician
 
 <p>
   <strong>Fullstack Developer</strong> with a strong technical background in Industrial Automation & Instrumentation. 
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
