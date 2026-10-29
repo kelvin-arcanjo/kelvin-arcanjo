@@ -1,8 +1,8 @@
 ###  Kelvin Arcanjo | Fullstack Software Developer & Industrial Automation and Instrumentation Technician
 
 <p>
-  <strong>Fullstack Developer</strong> with a strong technical background in Industrial Automation & Instrumentation. 
-  I build scalable web applications, RESTful APIs, and relational database architectures that connect software to real-world operations.
+  <strong>Software Developer & Industrial Automation Technician</strong>
+Building scalable web applications, REST APIs, and real-time industrial telemetry systems.
 </p>
 
 ---
