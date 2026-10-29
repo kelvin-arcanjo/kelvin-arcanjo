@@ -1,4 +1,4 @@
-###  Kelvin Arcanjo | Fullstack Software Developer & Industrial Automation and Instrumentation Technician
+###  Kelvin Arcanjo | Software Developer & Industrial Automation Technician 
 
 <p>
   <strong>Software Developer & Industrial Automation Technician</strong>
