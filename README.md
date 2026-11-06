@@ -7,7 +7,7 @@ Building scalable web applications, REST APIs, and real-time industrial telemetr
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -24,7 +24,7 @@ Building scalable web applications, REST APIs, and real-time industrial telemetr
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/kelvin-arcanjo">
